@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ajouter Produit</name>
+   <tag></tag>
+   <comment>Check for dropdown filter menu labels
+Select All values available in the dropdown by Select All option</comment>
+   <testCaseGuid>a1482da5-a909-4296-b6ee-9ab2b00ad2b9</testCaseGuid>
+</TestCaseEntity>
